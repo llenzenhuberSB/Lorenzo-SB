@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Lorenzo
-- 👀 I’m interested in Gaming/Art
-- 🌱 I’m currently learning Java/Python
-- 💞️ I’m looking to collaborate on nothing
-- ⚡ Fun fact: I'm a beginner
+Employee
 
 <!---
 Lorenzo-SB/Lorenzo-SB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
